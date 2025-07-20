@@ -1,6 +1,6 @@
 # Business Card Designer
 
-This contains everything you need to run your app locally.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d58872b1-fb62-4d8e-98f6-4043b303ad6b" />
 
 ## Run Locally
 
